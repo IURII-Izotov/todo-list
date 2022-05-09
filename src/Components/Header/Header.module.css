@@ -1,0 +1,11 @@
+header{
+    color: #ffffff;
+    width: 100%;
+    height: auto;
+    margin-bottom: 100px;
+}
+.bgDesktopDark{
+    width: 100%;
+    height: auto;
+    z-index: -1;
+}
